@@ -79,6 +79,7 @@
     "variant": "cpp",
     "unordered_map": "cpp",
     "all": "cpp",
-    "internal_bit": "cpp"
+    "internal_bit": "cpp",
+    "internal_scc": "cpp"
   }
 }
